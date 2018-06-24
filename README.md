@@ -4,7 +4,7 @@
 
 In this lab, you'll react to user input in action and pass components as context for actions. 
 
-## React Spreadsheet
+## Reactj Spreadsheet
 
 In this lesson we are going to write a simple spreadsheet application. Our goal isn't feature-parity with Microsoft Excel, but it's definitely going to be a lot fun and there are going to be **lots** of actions.
 
