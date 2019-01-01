@@ -17,7 +17,7 @@ Looks complicated? — Don't worry! All our [actions](./actions) are already the
 At the end of this lab, our spreadsheet application is going to have the following functionality:
 
 * Users will be able to select cells, the currently selected cell is shown in the bottom left hand corner (`5 — 1` in the screenshot).
-* The table is dynamic: We can add and remove columns from the able, but there will always be a minimum of one cell.
+* The table is dynamic: We can add and remove columns from the table, but there will always be a minimum of one cell.
 * For obvious reasons, our users are going to be able to select a cell and fill it with content.
 
 ### Components
