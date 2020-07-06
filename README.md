@@ -10,7 +10,7 @@ In this lesson we are going to write a simple spreadsheet application. Our goal 
 
 This is what we're going to build in this lab:
 
-![Screenshot](https://s3.amazonaws.com/learn-verified/react-actions-lab-screenshot.png)
+![Screenshot](https://s3.amazonaws.com/learn-verified/react-actions-lab-screenshot.png) .
 
 Looks complicated? — Don't worry! All our [actions](./actions) are already there, we just need to implement them!
 
